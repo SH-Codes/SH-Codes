@@ -1,6 +1,5 @@
-![MasterHead!](https://blog.grinfer.com/wp-content/uploads/2020/02/How-to-Learn-Computer-Programming-Languages.png)
 <h1 align="center">Hi 👋, I'm Sihle Hlophe</h1>
-<h3 align="center">Software Developer - Student</h3>
+<h3 align="center">Software Engineering Student</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/media/522522daf8b5c0871a2cd66d0f423919.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh-codes&label=Profile%20views&color=0e75b6&style=flat" alt="sh-codes" /> </p>
