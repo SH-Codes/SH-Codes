@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sihlehlophe_" target="blank"><img src="https://img.shields.io/twitter/follow/sihlehlophe_?logo=twitter&style=for-the-badge" alt="sihlehlophe_" /></a> </p>
 
-- 🌱 I’m currently learning: **Python, Flutter, JavaScript & SQL**
+- 🌱 I’m currently learning: **Python, C Programming, Shell Scripting, JavaScript & SQL**
 
 - 🤝 I’m looking for help with: **Python**
 
